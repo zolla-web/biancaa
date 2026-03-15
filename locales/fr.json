@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "perfumes": "Parfums",
+    "menu": "Menu",
+    "offers": "Offres",
+    "about": "À Propos",
+    "contact": "Contact",
+    "perfume": "Parfum de Luxe",
+    "buyNow": "Acheter Maintenant",
+    "orderNow": "Commander",
+    "moreInfo": "Plus d'Infos",
+    "contactToOrder": "Contacter pour Commander",
+    "close": "Fermer",
+    "menu_desc": "Explorez notre gamme complète de fragrances exquises, conçues pour chaque occasion et personnalité."
+  },
+  "hero": {
+    "newCollection": "Nouvelle Collection 2026",
+    "shopNow": "Acheter",
+    "slides": {
+      "1": {
+        "title": "L'Essence de l'Élégance",
+        "subtitle": "Découvrez le parfum qui vous définit."
+      },
+      "2": {
+        "title": "Symphonie Florale",
+        "subtitle": "Les plus belles fleurs de la nature dans un flacon."
+      },
+      "3": {
+        "title": "Mystère de Minuit",
+        "subtitle": "Profond, sombre et inoubliable."
+      }
+    }
+  },
+  "showcase": {
+    "title": "Collection Signature",
+    "viewDetails": "Voir les Détails"
+  },
+  "footer": {
+    "contactTitle": "Contactez-nous",
+    "quickLinks": "Liens Rapides",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "emailUs": "Écrivez-nous à",
+    "callUs": "Appelez-nous",
+    "phoneLabel": "Téléphone",
+    "emailLabel": "E-mail",
+    "addressLabel": "Adresse",
+    "price": "Prix"
+  },
+  "about": {
+    "title": "L'Art de la Parfumerie",
+    "subtitle": "Notre Histoire",
+    "p1": "Chez L'Odeur Exquise, nous croyons qu'un parfum est plus qu'une simple odeur ; c'est un souvenir, une émotion et une signature personnelle. Fondée au cœur de Londres, notre boutique réunit les traditions séculaires de la parfumerie et la sophistication moderne.",
+    "p2": "Nous sélectionnons méticuleusement des ingrédients rares de Grasse jusqu'en Orient, garantissant que chaque flacon capture une histoire unique. Que vous recherchiez des fleurs fraîches ou des muscs profonds, notre collection est organisée pour vous aider à trouver votre correspondance parfaite.",
+    "readMore": "Lire la suite"
+  },
+  "features": {
+    "title": "Le Bon Choix",
+    "subtitle": "Pourquoi nos clients nous choisissent encore et encore."
+  },
+  "faq": {
+    "title": "Foire Aux Questions"
+  },
+  "offers": {
+    "title": "Offres Spéciales",
+    "claim": "Profiter de l'offre"
+  },
+  "testimonials": {
+    "title": "Ce Qu'ils Disent",
+    "subtitle": "Lisez les témoignages de notre communauté de passionnés de parfums."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez une question ou souhaitez passer commande ? Parlez avec nos experts en parfumerie.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message",
+      "sending": "Envoi en cours..."
+    }
+  }
+}

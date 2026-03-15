@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "perfumes": "Perfumes",
+    "menu": "Menu",
+    "offers": "Offers",
+    "about": "About",
+    "contact": "Contact",
+    "perfume": "Luxury Fragrance",
+    "buyNow": "Buy Now",
+    "orderNow": "Order Now",
+    "moreInfo": "More Info",
+    "contactToOrder": "Contact to Order",
+    "close": "Close",
+    "menu_desc": "Explore our complete range of exquisite fragrances, crafted for every occasion and personality."
+  },
+  "hero": {
+    "newCollection": "New Collection 2026",
+    "shopNow": "Shop Now",
+    "slides": {
+      "1": {
+        "title": "Essence of Elegance",
+        "subtitle": "Discover the scent that defines you."
+      },
+      "2": {
+        "title": "Floral Symphony",
+        "subtitle": "Nature's finest blooms in a bottle."
+      },
+      "3": {
+        "title": "Midnight Mystery",
+        "subtitle": "Deep, dark, and unforgettable."
+      }
+    }
+  },
+  "showcase": {
+    "title": "Signature Collection",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "contactTitle": "Contact Us",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "emailUs": "Email us at",
+    "callUs": "Call us",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "price": "Price"
+  },
+  "about": {
+    "title": "The Art of Perfumery",
+    "subtitle": "Our Story",
+    "p1": "At L'Odeur Exquise, we believe that a fragrance is more than just a scent; it is a memory, an emotion, and a personal signature. Founded in the heart of London, our boutique brings together centuries-old traditions of perfumery with modern sophistication.",
+    "p2": "We meticulously select rare ingredients from Grasse to the Orient, ensuring every bottle captures a unique story. Whether you seek fresh florals or deep musks, our collection is curated to help you find your perfect match.",
+    "readMore": "Read More"
+  },
+  "features": {
+    "title": "Right Choice",
+    "subtitle": "Why our customers choose us again and again."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "offers": {
+    "title": "Special Offers",
+    "claim": "Claim Offer"
+  },
+  "testimonials": {
+    "title": "What They Say",
+    "subtitle": "Read from our community of fragrance lovers."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or want to place an order? Speak with our fragrance experts.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending..."
+    }
+  }
+}

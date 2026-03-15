@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "perfumes": "Perfumes",
+    "menu": "Menú",
+    "offers": "Ofertas",
+    "about": "Acerca",
+    "contact": "Contacto",
+    "perfume": "Fragancia de Lujo",
+    "buyNow": "Comprar Ahora",
+    "orderNow": "Pedir Ahora",
+    "moreInfo": "Más Información",
+    "contactToOrder": "Contactar para Pedir",
+    "close": "Cerrar",
+    "menu_desc": "Explore nuestra gama completa de exquisitas fragancias, creadas para cada ocasión y personalidad."
+  },
+  "hero": {
+    "newCollection": "Nueva Colección 2026",
+    "shopNow": "Comprar",
+    "slides": {
+      "1": {
+        "title": "Esencia de Elegancia",
+        "subtitle": "Descubre el aroma que te define."
+      },
+      "2": {
+        "title": "Sinfonía Floral",
+        "subtitle": "Las mejores flores de la naturaleza en una botella."
+      },
+      "3": {
+        "title": "Misterio de Medianoche",
+        "subtitle": "Profundo, oscuro e inolvidable."
+      }
+    }
+  },
+  "showcase": {
+    "title": "Colección de Autor",
+    "viewDetails": "Ver Detalles"
+  },
+  "footer": {
+    "contactTitle": "Contáctenos",
+    "quickLinks": "Enlaces Rápidos",
+    "followUs": "Síganos",
+    "rights": "Todos los derechos reservados.",
+    "emailUs": "Envíenos un correo a",
+    "callUs": "Llámenos",
+    "phoneLabel": "Teléfono",
+    "emailLabel": "Correo",
+    "addressLabel": "Dirección",
+    "price": "Precio"
+  },
+  "about": {
+    "title": "El Arte de la Perfumería",
+    "subtitle": "Nuestra Historia",
+    "p1": "En L'Odeur Exquise, creemos que una fragancia es más que un simple aroma; es un recuerdo, una emoción y una firma personal. Fundada en el corazón de Londres, nuestra boutique reúne tradiciones centenarias de perfumería con sofisticación moderna.",
+    "p2": "Seleccionamos meticulosamente ingredientes raros desde Grasse hasta Oriente, asegurando que cada frasco capture una historia única. Ya sea que busque flores frescas o almizcles profundos, nuestra colección está seleccionada para ayudarlo a encontrar su combinación perfecta.",
+    "readMore": "Leer más"
+  },
+  "features": {
+    "title": "La Elección Correcta",
+    "subtitle": "Por qué nuestros clientes nos eligen una y otra vez."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes"
+  },
+  "offers": {
+    "title": "Ofertas Especiales",
+    "claim": "Solicitar Oferta"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen",
+    "subtitle": "Lee los comentarios de nuestra comunidad de amantes de las fragancias."
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¿Tienes alguna pregunta o quieres hacer un pedido? Habla con nuestros expertos en fragancias.",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando..."
+    }
+  }
+}
